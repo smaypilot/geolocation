@@ -2,14 +2,14 @@
     [
         "/Users/stevenmay/geolocation/force-app",
         {
+            "state": "n",
             "sourcePath": "/Users/stevenmay/geolocation/force-app",
             "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1537314635000,
-            "changeTime": 1537314635000,
-            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "n",
+            "size": 136,
+            "modifiedTime": 1537328459000,
+            "changeTime": 1537328459000,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/stevenmay/geolocation/force-app/main",
         {
+            "state": "n",
             "sourcePath": "/Users/stevenmay/geolocation/force-app/main",
             "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1537314635000,
-            "changeTime": 1537314635000,
-            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "n",
+            "size": 136,
+            "modifiedTime": 1537328459000,
+            "changeTime": 1537328459000,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -36,23 +36,23 @@
             "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 238,
-            "modifiedTime": 1537318277000,
-            "changeTime": 1537318277000,
-            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+            "size": 340,
+            "modifiedTime": 1537328907000,
+            "changeTime": 1537328907000,
+            "contentHash": "f4d98222d02da8a8bd4bf8c651b6c4b721916c86"
         }
     ],
     [
         "/Users/stevenmay/geolocation/force-app/main/default/aura",
         {
+            "state": "n",
             "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 68,
-            "modifiedTime": 1537314635000,
-            "changeTime": 1537314635000,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "n",
+            "size": 136,
+            "modifiedTime": 1537328586000,
+            "changeTime": 1537328586000,
+            "contentHash": "8254dac2f5256c6b3492239c93b3f2d7d93ec5a8",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,157 +62,178 @@
         {
             "sourcePath": "/Users/stevenmay/geolocation",
             "isDirectory": true,
-            "size": 272,
-            "modifiedTime": 1537314690000,
-            "changeTime": 1537314690000,
-            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "size": 408,
+            "modifiedTime": 1537318850000,
+            "changeTime": 1537318850000,
+            "contentHash": "6ef69b0c2f123f84128940efc746147ca59d3764",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
         "/Users/stevenmay/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
+            "state": "n",
             "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1537315323000,
             "changeTime": 1537315323000,
             "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
-            "isMetadataFile": true,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/stevenmay/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1537315323000,
             "changeTime": 1537315323000,
             "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
-            "isMetadataFile": true,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/stevenmay/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1537315323000,
             "changeTime": 1537315323000,
             "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
-            "isMetadataFile": true,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/stevenmay/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1537315323000,
             "changeTime": 1537315323000,
             "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
-            "isMetadataFile": true,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/stevenmay/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1537315323000,
             "changeTime": 1537315323000,
             "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
-            "isMetadataFile": true,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/stevenmay/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 700,
             "modifiedTime": 1537318277000,
             "changeTime": 1537318277000,
-            "contentHash": "496e401c71968f859fd216158a231c887bbde781"
+            "contentHash": "496e401c71968f859fd216158a231c887bbde781",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/stevenmay/geolocation/force-app/main/default/objects/Account/fields",
         {
+            "state": "n",
             "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1537315323000,
             "changeTime": 1537315323000,
             "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
-            "isMetadataFile": false,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/stevenmay/geolocation/force-app/main/default/objects/Account",
         {
+            "state": "n",
             "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1537315323000,
             "changeTime": 1537315323000,
             "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
-            "isMetadataFile": false,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/stevenmay/geolocation/force-app/main/default/objects",
         {
+            "state": "n",
             "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/objects",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1537315323000,
             "changeTime": 1537315323000,
             "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
-            "isMetadataFile": false,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/stevenmay/geolocation/force-app/main/default/layouts",
         {
+            "state": "n",
             "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1537315323000,
             "changeTime": 1537315323000,
             "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
-            "isMetadataFile": false,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/stevenmay/geolocation/force-app/main/default/permissionsets",
         {
+            "state": "n",
             "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1537315323000,
             "changeTime": 1537315323000,
             "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
-            "isMetadataFile": false,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -222,10 +243,10 @@
             "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 17720,
-            "modifiedTime": 1537318277000,
-            "changeTime": 1537318277000,
-            "contentHash": "621f49d281e753cdfae3e86a0afbf328f3aadafe"
+            "size": 17965,
+            "modifiedTime": 1537328907000,
+            "changeTime": 1537328907000,
+            "contentHash": "4b06b6411b9b4198c727114d9daeb869a4ff5c74"
         }
     ],
     [
@@ -235,10 +256,270 @@
             "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
             "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1537328907000,
+            "changeTime": 1537328907000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1537328469000,
+            "changeTime": 1537328469000,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 292,
+            "modifiedTime": 1537328523000,
+            "changeTime": 1537328523000,
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1537328469000,
+            "changeTime": 1537328469000,
+            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 374,
+            "modifiedTime": 1537328571000,
+            "changeTime": 1537328571000,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1537328571000,
+            "changeTime": 1537328571000,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 155,
+            "modifiedTime": 1537328643000,
+            "changeTime": 1537328643000,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1537328571000,
+            "changeTime": 1537328571000,
+            "contentHash": "83ff4d0b87ed5f90f60645958ed6ed7348c82a24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 113,
+            "modifiedTime": 1537328655000,
+            "changeTime": 1537328655000,
+            "contentHash": "d37585a5497942f4652a198588747f2d6be784e7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1537328571000,
+            "changeTime": 1537328571000,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1537328571000,
+            "changeTime": 1537328571000,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1537328571000,
+            "changeTime": 1537328571000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1537328571000,
+            "changeTime": 1537328571000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1537328571000,
+            "changeTime": 1537328571000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1537328907000,
+            "changeTime": 1537328907000,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4565,
+            "modifiedTime": 1537328907000,
+            "changeTime": 1537328907000,
+            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98"
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4901,
+            "modifiedTime": 1537328907000,
+            "changeTime": 1537328907000,
+            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08"
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4561,
+            "modifiedTime": 1537328907000,
+            "changeTime": 1537328907000,
+            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687"
+        }
+    ],
+    [
+        "/Users/stevenmay/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stevenmay/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
             "size": 102,
-            "modifiedTime": 1537318277000,
-            "changeTime": 1537318277000,
-            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+            "modifiedTime": 1537328907000,
+            "changeTime": 1537328907000,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
         }
     ]
 ]
